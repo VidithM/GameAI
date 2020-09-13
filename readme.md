@@ -3,5 +3,6 @@
 ## Tic-Tac-Toe
 * Uses minimax optimization, plays perfect games
 
-### Future plans:
-* Connect-4?
+### Connect 4
+* Not fully working yet, fixing issues
+* Using alpha-beta pruning to speed up search
